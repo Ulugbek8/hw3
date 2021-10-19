@@ -1,0 +1,65 @@
+h1{
+	text-align: center;
+}
+
+
+
+
+
+
+
+.korobka{
+  height: 250px;
+  width: 35%;
+  background-color: red;
+  border: 1px ridge black;
+
+  text-align: center;*/
+}
+
+
+.boxes{
+
+  border: 15px solid red;
+  display: flex;
+  justify-content: space-around;
+
+
+}
+
+
+
+
+.box {
+  width: 30%;
+  background-color: aqua;
+  border: 10px solid teal;
+  font-size: 20px;
+  padding: 30px;
+
+
+}
+
+
+.photo{
+	/*height: 200px;*/
+	width: 340px;
+}
+
+
+.sss{
+  border: 15px solid red;
+  display: flex;
+  justify-content: space-around;
+
+}
+
+.fab {
+  color: darkred;
+  font-size: 80px;
+  border: 1px solid aqua;
+  background-color: red;
+
+}
+
+
